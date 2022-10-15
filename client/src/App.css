@@ -1,0 +1,84 @@
+
+.border {
+	border: 1px solid black;
+}
+
+.ImgCen {
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+
+/* -------------------------Header--------------------------- */
+
+.Header {
+  height: 120px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-right: 3%;
+}
+
+.logo {
+  margin-left: -50%;
+  margin-top: -5%;
+}
+
+/* .searchBar {
+} */
+
+.options {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
+
+/* ---------------------------------------------------- */
+
+
+/* -------------------------Banner--------------------------- */
+
+/* .bgImg{
+} */
+
+/* ---------------------------------------------------- */
+
+
+
+
+/* -------------------------News--------------------------- */
+
+.News {
+	height: 200px;
+	background-color: aqua;
+}
+
+/* ---------------------------------------------------- */
+
+
+/* -------------------------EduProg--------------------------- */
+
+.EduProg {
+	height: 200px;
+	background-color: gray;
+}
+
+/* ---------------------------------------------------- */
+
+/* -------------------------Association--------------------------- */
+
+.Association {
+	
+}
+
+/* ---------------------------------------------------- */
+
+
+/* -------------------------Footer--------------------------- */
+
+.Footer{
+	background-color: rgb(213, 213, 213);
+}
+
+/* ---------------------------------------------------- */
