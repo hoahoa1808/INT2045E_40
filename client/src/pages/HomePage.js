@@ -10,7 +10,7 @@ import Association from "../components/Association";
 class HomePage extends Component {
     render() {
         return (
-            <div>
+            <div style={{ backgroundColor: "aliceblue" }}>
                 <Header />
                 <Banner />
                 <News />

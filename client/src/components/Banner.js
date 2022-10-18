@@ -5,7 +5,7 @@ class Banner extends Component {
 
     render() {
         return (
-            <div className="bgImg">
+            <div className="bgImg" style={{ padding: "0 0 2% 0" }}>
                 <img src={bgImg} style={{ width: "100%" }} />
             </div>
         );
