@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import Header from "../components/Header";
 import Banner from "../components/Banner";
 import Footer from "../components/Footer";
-import News from "../components/News";
+import HotNews from "../components/HotNews";
 import EduProg from "../components/EduProg";
 import Association from "../components/Association";
 
@@ -13,7 +13,7 @@ class HomePage extends Component {
             <div style={{ backgroundColor: "aliceblue" }}>
                 <Header />
                 <Banner />
-                <News />
+                <HotNews />
                 <EduProg />
                 <Association />
                 <Footer />
